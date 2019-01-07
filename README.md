@@ -2,6 +2,12 @@
 
 ## DESIGN
 
+### OOP
+### MSA
+### DDD
+### EVENT STORMING
+### CRC
+
 ## DEVELOP
 
 ## TEST
