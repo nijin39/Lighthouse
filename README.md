@@ -63,9 +63,18 @@
 ### DATABASE
 ### QUERY
 ### VUE.JS
+    11. Vue.js quick start - 원협섭
+    이분은 자비스크립트와 jquery에 대해서도 상당히 많은 내공을 가진 분이십니다. 이분이 지으신 Vue.js 
+    Vue.js에 대한 이해와 탄탄한 기본을 가질 수 있도록 도와줍니다.
 ### JAVASCRIPT
+### HTML/CSS
+    12. 세르게이의 HTML5&CSS3 퀵레퍼런스 - 세르케이 마브로디
+    저는 정말 잘 참고하고 있습니다. 굳이 HTML/CSS에서 대해서 인터넷 검색을 하지 않아도 되게 만들어 주는 책
 
 ## TEST
+    13. Test-Driven Development:By Example - 켄트벡
+    사실 TDD는 언제나 누구나 쉽지 않습니다. 습관을 기르고 될때까지 해보는 것이 매우 중요합니다. 
+    이 책에서는 TDD에 대한 기본을 예제와 함께 익힐 수 있습니다. 단 그 후에 실제 적용하는 것은 언제나 그렇듯이 나의 몫
 
 ## DEPLOY
 
