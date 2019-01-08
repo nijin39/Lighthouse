@@ -22,7 +22,7 @@
 | 4 ~ 6년차      | 4, 5          | 7,8        |
 | 7 ~ 10년차     | 6, 3          | 9          |
 
-[Career Path](http://www.nextree.co.kr/content/images/2016/other/Nextree-Role-based-roadmap-for-SW-engineers-version-KR-SI-1401_A3.pdf)
+[Career Path Sample](http://www.nextree.co.kr/content/images/2016/other/Nextree-Role-based-roadmap-for-SW-engineers-version-KR-SI-1401_A3.pdf)
 
 ## DESIGN
 
