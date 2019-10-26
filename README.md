@@ -96,5 +96,10 @@
 ## DEPLOY
 
 ## OPERATE
+    21. The DevOps Handbook - Gene Kim, Jez Humble, Patrick Debois, John Willis
+    많은 사람들이 devops를 운영과 개발을 같이 하는 것이라든지, 혹은 jenkins을 이용한 배포 파이프라인 구축이라든지라고 생각하는 경우가 있는데요. 이 책을 읽어보시면 많은 생각이 바뀔 것이라고 생각이 됩니다. 물론 영어라서 읽기는 매우 어렵습니다. 
+    22. Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+    이 책도 위의 책과 마찬가지이지만 좀더 큰 주제를 다방면에서 다룬다고 보시면 될것 같습니다. 지금 읽고 있는 중이고 아직은 1CH기 때문에 자세한 내용은 추후에 더 추가하도록 하겠습니다.
+    
 
 ## SUPPORT
