@@ -19,7 +19,7 @@
 | 연차           | Design        | Develop    | Test    | Deploy  | Operate  | Support |
 | ------------- |:-------------:|:----------:|:-------:|:-------:|:--------:|:--------:
 | 0 ~ 3년차      | 1, 2          | 10         |
-| 4 ~ 6년차      | 4, 5          | 7,8        |
+| 4 ~ 6년차      | 4, 5          | 7,8,23     |
 | 7 ~ 10년차     | 6, 3          | 9          |13 | | 21,22 | 
 
 [Career Path Sample](http://www.nextree.co.kr/content/images/2016/other/Nextree-Role-based-roadmap-for-SW-engineers-version-KR-SI-1401_A3.pdf)
@@ -78,6 +78,10 @@
     사실 자바 진영의 필독서라 할 수 있습니다. 3판이 나왔는데 자바 7,8,9 관련이 추가되었고 최근 번역본이 18.11 출간했습니다.
     중급 이상의 개발자들이 보기 좋은 책이고 여러가지 사례들을 보며 개발의 길잡이가 되어주는 책입니다.
 ### DATABASE
+### DATAPLATFORM
+    23. 카프카, 데이터 플랫폼의 최강자
+    현재 한국에 Kafka에 대해서 나온 책 중에 바이블이라는 책이다. 비동기 이벤트 방식으로 프로그램을 만든다고 했을 때, 가장 잘 
+    어울리는 stack이 바로 kafka가 아닐까 한다. 이런 방향으로 개발하고 싶으면 꼭 봐야 하는 책~~
 ### QUERY
 ### VUE.JS
     11. Vue.js quick start - 원협섭
