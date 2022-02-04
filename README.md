@@ -18,8 +18,8 @@
 
 | 연차           | Design        | Develop    | Test    | Deploy  | Operate  | Support |
 | ------------- |:-------------:|:----------:|:-------:|:-------:|:--------:|:--------:
-| 0 ~ 3년차      | 1, 2          | 10         |
-| 4 ~ 6년차      | 4, 5          | 7,8,23     |
+| 0 ~ 3년차      | 1, 2          | 10         |         |         | 27
+| 4 ~ 6년차      | 4, 5, 26      | 7,8,23     |
 | 7 ~ 10년차     | 6, 3, 24, 25  | 9          |13 | | 21,22 | 
 
 [Career Path Sample](http://www.nextree.co.kr/content/images/2016/other/Nextree-Role-based-roadmap-for-SW-engineers-version-KR-SI-1401_A3.pdf)
@@ -50,6 +50,8 @@
     4. DDD Start! - 도메인 주도 설계 구현과 핵심 개념 익히기 - 최범균 저 : 시작은 이 책 부터
     5. Domain Driven Design - 에릭 에반슨 : 무조건 읽어야 함 첨부터 읽기 어려우니 DDD Start!를 먼저 읽으세요.
     6. Implementing Domain-Driven Design 1st Edition - Vaughn Vernon : 한국어 번역서는 매우 매우 한국말이 아님. 
+### ARCHITECTURE
+    26. Fundamentals of software architecture(소프트웨어 아키텍처101) - 마크리처즈, 이일웅 옮김 : Architect가 뭐하는 사람이고 어떤 사람인지를 써 놓은 책입니다. 추천
 ### EVENT STORMING
 ### CRC
 
@@ -107,6 +109,7 @@
     많은 사람들이 devops를 운영과 개발을 같이 하는 것이라든지, 혹은 jenkins을 이용한 배포 파이프라인 구축이라든지라고 생각하는 경우가 있는데요. 이 책을 읽어보시면 많은 생각이 바뀔 것이라고 생각이 됩니다. 물론 영어라서 읽기는 매우 어렵습니다. 
     22. Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
     이 책도 위의 책과 마찬가지이지만 좀더 큰 주제를 다방면에서 다룬다고 보시면 될것 같습니다. 지금 읽고 있는 중이고 아직은 1CH기 때문에 자세한 내용은 추후에 더 추가하도록 하겠습니다.
-    
+    27. 컨테이너 인프라 환경 구축을 위한 쿠버네티스 / 도커 - 조훈, 심근우, 문성주
+    후배가 쓰기도 했지만 기본적인 내용을 다 가지고 있는 쿠버네티스 입문서로 추천합니다.
 
 ## SUPPORT
