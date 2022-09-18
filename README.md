@@ -18,8 +18,8 @@
 
 | 연차           | Design        | Develop    | Test    | Deploy  | Operate  | Support |
 | ------------- |:-------------:|:----------:|:-------:|:-------:|:--------:|:--------:
-| 0 ~ 3년차      | 1, 2          | 10         |         |         | 27
-| 4 ~ 6년차      | 4, 5, 26      | 7,8,23     |
+| 0 ~ 3년차      | 1, 2          | 10, 28     |         |         | 27
+| 4 ~ 6년차      | 4, 5, 26, 30  | 7,8,23, 29 |
 | 7 ~ 10년차     | 6, 3, 24, 25  | 9          |13 | | 21,22 | 
 
 [Career Path Sample](http://www.nextree.co.kr/content/images/2016/other/Nextree-Role-based-roadmap-for-SW-engineers-version-KR-SI-1401_A3.pdf)
@@ -50,8 +50,10 @@
     4. DDD Start! - 도메인 주도 설계 구현과 핵심 개념 익히기 - 최범균 저 : 시작은 이 책 부터
     5. Domain Driven Design - 에릭 에반슨 : 무조건 읽어야 함 첨부터 읽기 어려우니 DDD Start!를 먼저 읽으세요.
     6. Implementing Domain-Driven Design 1st Edition - Vaughn Vernon : 한국어 번역서는 매우 매우 한국말이 아님. 
+    29. 도메인 주도 설계 첫걸음 - 블라드 코노노프 : 가장 최근에 나온 DDD 책이다. 위의 4,5,6번은 좀 시간이 된 편입니다. 기본적인 내용는 5,6과 아무 많이 상이하지는 않지만 위의 두권 보다 좀 쉽게 읽히는 것 같은 느낌이 있었습니다. 그리고 DDD의 Tactical Pattern은 시간이 지남에 따라 발전하고 있습니다. 이에 대한 내용이 추가 되어 있습니다. 하지만 기본적으로 앞의 책들고 꼭 보서야 합니다.
 ### ARCHITECTURE
     26. Fundamentals of software architecture(소프트웨어 아키텍처101) - 마크리처즈, 이일웅 옮김 : Architect가 뭐하는 사람이고 어떤 사람인지를 써 놓은 책입니다. 추천
+    30. Software Architecture: The Hard Parts - Ford, Richards - 아쉽게도 아직 번역이 되어 있지 않은 책이지만, 모든 아키텍쳐는 Tradeoff 입니다. 사실 이 세계에서는 절대적으로 좋은 것도 없고 나쁜 것도 없습니다.이런 관점을 가지고 시스템을 디자인 하는 것에 대해서 말하고 있습니다. 아키텍트로 일하고 계시는 분들은 꼭 읽어보셔야 하는 책입니다.
 ### EVENT STORMING
 ### CRC
 
@@ -96,6 +98,9 @@
 ### HTML/CSS
     12. 세르게이의 HTML5&CSS3 퀵레퍼런스 - 세르케이 마브로디
     저는 정말 잘 참고하고 있습니다. 굳이 HTML/CSS에서 대해서 인터넷 검색을 하지 않아도 되게 만들어 주는 책
+### Microservices
+    28. Microservices Up & Running
+    이 책은 코드가 그렇게 강하게 나오지는 않지만 전체적인 개발 라이프 사이클을 다루고 있으며, 최근에 나온 기술들을 어떻게 종합적으로 사용하는지 나오고 있다. 세분화된 기술을 공부하기 전에 한번 쯤을 꼭 보고 넘어가야 할 책이라고 생각합니다.
 
 ## TEST
     13. Test-Driven Development:By Example - 켄트벡
